@@ -1,0 +1,5 @@
+kecualikan folder node_modules dan file konfigurasi lingkungan pada folder frontend dan backend
+/frontend/.env
+/backend/.env
+/frontend/node_modules/
+/backend/node_modules/
